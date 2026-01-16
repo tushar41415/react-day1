@@ -17,6 +17,8 @@ function App() {
         >
           Learn Reeeeeact
         </a>
+        <h1>Day 1
+        </h1>
       </header>
     </div>
   );
